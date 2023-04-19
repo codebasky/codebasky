@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- Experienced Cloud Native Backend Developer with a strong background in building microservices, RESTful APIs, and event-driven architectures
+- Skilled in Golang, AWS, and Kubernetes
+- Collaborative problem-solver with a passion for leveraging cloud-native technologies to build highly scalable and resilient applications.
+
+### Connect with Me on [LinkedIn](https://www.linkedin.com/in/baskar-shanmugam/) or [Twitter](https://twitter.com/baskartwt) for more information about my experience and expertise.
+
 <!--
 **codebasky/codebasky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -10,7 +16,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
